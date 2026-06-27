@@ -10,12 +10,17 @@ Welcome to **Equation-C-Plus-Plus**! This repository serves as a collection of C
 | :--- | :--- |
 | **Days-To-Duration** | Converts total days into (Years, Months, and Days). |
 | **Distance-Formula** | Calculates the distance between two points in a 2D coordinate plane. |
+| **Even-Odd-Checker** | Analyzes a given number to determine if it is Even or Odd. |
+| **Equality-Checker** | Compares two integers to determine if they are equal or different. |
+| **Fax-Cost-Calculator** | Calculates fax costs based on service charges and tiered pricing. |
 | **Fuel-Efficiency** | Calculates vehicle fuel efficiency in Miles Per Gallon (MPG). |
+| **Mass-Density-Volume** | Calculates Volume based on Mass and Density using physical formulas. |
 | **Retail-Margin-Tool** | A financial utility to calculate profit margins. |
 | **Seconds-to-HMS** | Converts total seconds into (Hours : Minutes : Seconds) format. |
 | **Student-Grades** | A program to calculate and evaluate student academic grades. |
 | **Time-Converter** | Converts time units into total seconds. |
-| **Weighted-Average** | Calculates the weighted average of quantities and items. |
+| **Triangle-Area** | Calculates triangle area using Heron's formula with modular design. |
+| **Weighted-Average-Engine** | Calculates the weighted average of quantities and items. |
 
 ---
 
